@@ -22,7 +22,11 @@ links:
   Code: https://github.com/uw-nsl/ArtPrompt
 
 medias:
-  DeepLearning.AI: https://www.deeplearning.ai/the-batch/artprompt-a-technique-that-exploits-ascii-art-to-bypass-llm-safety-measures/
   X: https://x.com/emollick/status/1763687813386547594
+  DeepLearning.AI: https://www.deeplearning.ai/the-batch/artprompt-a-technique-that-exploits-ascii-art-to-bypass-llm-safety-measures/
+  Ars Technica: https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/
+  ScienceNewsExplore: https://www.snexplores.org/article/chatbot-jailbreaks-bad-ai
   tom's Hardware: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries
+  
+
 ---

@@ -16,4 +16,6 @@ authors:
 -    Radha Poovendran
 links:
   Preprint: https://arxiv.org/abs/2411.07133
+medias:
+  <i class="fa-solid fa-trophy"></i> Huggingface Daily Paper: https://huggingface.co/papers?date=2024-11-13
 ---

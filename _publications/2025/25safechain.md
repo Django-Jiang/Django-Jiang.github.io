@@ -1,6 +1,6 @@
 ---
 title:          "SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities"
-date:           2025-06-30 00:01:00 +0800
+date:           2025-07-01 00:01:00 +0800
 selected:       true
 # pub:            "Thirteenth International Conference on Learning Representations (ICLR)"
 pub: "Preprint"
@@ -23,6 +23,9 @@ links:
   Project Website: https://safe-chain.github.io/
 #   Code: TBA
   HuggingFace Dataset:  https://huggingface.co/datasets/UWNSL/SafeChain
+
+medias:
+  AI World: https://www.linkedin.com/posts/ai-world-eu_airesearch-innovation-aiweek8-activity-7298359667036966913-ujyX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDfsEcBfWWt4iEFuiTwVM6pcMzdc9sI_d0
 
 
 ---
