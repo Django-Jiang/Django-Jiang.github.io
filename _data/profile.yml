@@ -62,6 +62,14 @@ experience:
   position: Machine Learning Engineer Intern
   date: Mar. 2022 - June 2022
 
+service_experience:
+- experience:  Student Advisory Board Member of ACTION NSF AI Institute
+  time: 2023 - Current
+- experience: "Organizer of NeurIPS 2024 Competition, <a href='https://www.llmagentsafetycomp24.com/'>CLAS: The Competition for LLM and Agent Safety</a>"
+- experience: Organizer of NeurIPS 2023 Competition, <a href='https://trojandetection.ai/'>Trojan Detection Challenge 2023 (LLM Edition)</a>
+- experience: "Reviewer: ICML 2024/2025, NeurIPS 2024, ICLR 2025, AAAI 2025, AISTATS 2025, ACL 2025 SRW"
+  # time: 2024
+
 
 # awards:
 # - name: Award Name 2
