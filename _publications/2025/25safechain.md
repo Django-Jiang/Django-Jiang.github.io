@@ -21,8 +21,8 @@ authors:
 links:
   Preprint: https://arxiv.org/abs/2502.12025
   Project Website: https://safe-chain.github.io/
-#   Code: TBA
-  HuggingFace Dataset:  https://huggingface.co/datasets/UWNSL/SafeChain
+  Code: https://github.com/uw-nsl/safechain
+  HuggingFace:  https://huggingface.co/collections/UWNSL/safechain-67b90cbc940549d886be9ccc
 
 medias:
   AI World: https://www.linkedin.com/posts/ai-world-eu_airesearch-innovation-aiweek8-activity-7298359667036966913-ujyX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDfsEcBfWWt4iEFuiTwVM6pcMzdc9sI_d0
