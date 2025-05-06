@@ -67,7 +67,9 @@ service_experience:
   time: 2023 - Current
 - experience: "Organizer of NeurIPS 2024 Competition, <a href='https://www.llmagentsafetycomp24.com/'>CLAS: The Competition for LLM and Agent Safety</a>"
 - experience: Organizer of NeurIPS 2023 Competition, <a href='https://trojandetection.ai/'>Trojan Detection Challenge 2023 (LLM Edition)</a>
-- experience: "Reviewer: ICML 2024/2025, NeurIPS 2024, ICLR 2025, AAAI 2025, AISTATS 2025, ACL 2025 SRW"
+- experience: "Conference Reviewer: ICML 2024/2025, NeurIPS 2024, ICLR 2025, AAAI 2025, AISTATS 2025, ACL 2025"
+- experience: "Journal Reviewer: IEEE Transactions on Information Forensics and Security (TIFS)"
+- experience: "Volunteer: NAACL 2025"
   # time: 2024
 
 
