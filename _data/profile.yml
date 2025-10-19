@@ -26,7 +26,7 @@ short_bio: >-
   </p>
   
   <p>
-    My research interests is about building responsible and trustworthy AGI system. My works recently concentrates on <u>Large Language Model Alignment, Safety and Security</u>, including Jailbreak attack & defense, LLM application and agent security, LLM reasoning, and data synthesis. I am also working on <u>Machine Learning Security</u> and <u>Federated Learning</u>.    
+    My research interests is about building better AGI system. My works recently concentrates on LLM/Agent/LMM, topics span post-training&alignmennt/safety&security/reinforcement learning/agentic training/reasoning/data synthesis. I also worked on <u>Machine Learning Security</u> and <u>Federated Learning</u>.    
   </p>
 
 
@@ -53,10 +53,18 @@ education:
 
 
 experience:
+- name: Snowflake AI
+  logo: /assets/images/badges/Snowflake_Logo.png
+  position: Research Intern
+  date: Sept. 2025 - Current
+- name: Microsoft Research
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/500px-Microsoft_logo.svg.png
+  position: Research Intern
+  date: June 2025 - Sept. 2025
 - name: Amazon
   logo: /assets/images/badges/amazon_logo.webp
   position: Applied Scientist Intern
-  date: June 2024 - Sep. 2024
+  date: June 2024 - Sept. 2024
 - name: Intel AI
   logo: /assets/images/badges/intel_logo.png
   position: Machine Learning Engineer Intern
