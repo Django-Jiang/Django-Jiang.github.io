@@ -22,6 +22,7 @@ links:
   Code: https://github.com/uw-nsl/ArtPrompt
 
 medias:
+  Le Monde: https://www.lemonde.fr/sciences/article/2025/09/03/comment-faire-sauter-les-garde-fous-des-chatbots_6638754_1650684.html
   X: https://x.com/emollick/status/1763687813386547594
   DeepLearning.AI: https://www.deeplearning.ai/the-batch/artprompt-a-technique-that-exploits-ascii-art-to-bypass-llm-safety-measures/
   Ars Technica: https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/
