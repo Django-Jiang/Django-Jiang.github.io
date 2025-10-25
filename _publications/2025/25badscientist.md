@@ -21,6 +21,7 @@ authors:
 links:
   Preprint: https://bad-scientist.github.io/#paper
   Project Page: https://bad-scientist.github.io/
-
+medias:
+  AI World: https://aiworld.eu/story/this-weeks-10-most-notable-ai-research-papers---week-43
 
 ---
