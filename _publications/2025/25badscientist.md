@@ -23,5 +23,6 @@ links:
   Project Page: https://bad-scientist.github.io/
 medias:
   AI World: https://aiworld.eu/story/this-weeks-10-most-notable-ai-research-papers---week-43
+  Chemical & Engineering News (C&EN): https://cen.acs.org/research-integrity/AI-peer-reviewers-fine-AI/103/web/2025/11
 
 ---
