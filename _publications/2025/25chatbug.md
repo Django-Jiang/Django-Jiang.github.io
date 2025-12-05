@@ -15,6 +15,8 @@ authors:
 -  Luyao Niu
 -   Bill Yuchen Lin
 -    Radha Poovendran
+medias:
+ - Cisco: https://blogs.cisco.com/ai/ai-cyber-threat-intelligence-roundup-july-2024
 links:
   # Paper: https://dl.acm.org/doi/10.5555/3698900.3699134
   Full Version: https://arxiv.org/abs/2406.12935

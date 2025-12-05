@@ -28,6 +28,9 @@ medias:
   Ars Technica: https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/
   ScienceNewsExplore: https://www.snexplores.org/article/chatbot-jailbreaks-bad-ai
   tom's Hardware: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries
+  The Stack: https://www.thestack.technology/the-80s-come-for-llms-with-ascii-art/
+  Inc.com:  https://www.inc.com/kit-eaton/low-tech-computer-art-foils-cutting-edgeai-safety-systems.html
+  PC Gamer: https://www.pcgamer.com/hardware/researchers-have-developed-yet-another-way-to-fool-ai-chatbots-this-time-with-a-good-old-fashioned-dose-of-ascii-art/
   
 
 ---
